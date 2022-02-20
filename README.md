@@ -1,7 +1,7 @@
 # serputov
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,3&height=280&section=header&text=Hi+the&fontSize=90)
-![footer](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,3&height=150&section=footer) -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Hi+the&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Serputov Anatoliy&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
