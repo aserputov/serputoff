@@ -1,6 +1,6 @@
 # serputov
-<!--  # Nazarov Asadbek
-- 👋 Hi, I’m Nazarov Asadbek
+<!--  # Serputov Anatoliy
+- 👋 Hi, I’m Serputov Anatoliy
 - 👀 I’m interested in JS, CSS/SASS and HTML
 - 🌱 I’m currently learning SASS
 - 💞️ I’m looking to collaborate on web app & platform development 
