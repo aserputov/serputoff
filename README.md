@@ -1,6 +1,6 @@
 # serputov
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=#d0e1f9&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Serputov Anatoliy&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
